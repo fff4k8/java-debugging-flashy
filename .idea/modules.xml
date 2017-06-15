@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/flashy.iml" filepath="$PROJECT_DIR$/.idea/modules/flashy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/flashy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/flashy_main.iml" group="flashy" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/flashy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/flashy_test.iml" group="flashy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-debugging-flashy.iml" filepath="$PROJECT_DIR$/.idea/modules/java-debugging-flashy.iml" />
     </modules>
   </component>
 </project>
