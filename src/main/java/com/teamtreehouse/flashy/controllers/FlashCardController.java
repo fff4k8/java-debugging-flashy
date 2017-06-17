@@ -22,7 +22,7 @@ public class FlashCardController {
   public void setFlashCardService(FlashCardService flashCardService) {
     this.flashCardService = flashCardService;
   }
-
+@SuppressWarnings("unchecked") // added suppress
   private Map<Long, Long> getCardCounts(HttpServletRequest req) {
     Map<Long, Long> cardCounts = (Map<Long, Long>) req.getSession().getAttribute("cardCounts");
     if (cardCounts == null) {
